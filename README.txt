@@ -16,10 +16,12 @@
 
 
  The KADE development team:
-
- Jon Wilson    - jon@kadevice.com
- Bruno Freitas - bruno@kadevice.com
- Kevin Mackett - kevin@kadevice.com
+   
+ Bruno Freitas 
+ Kevin Mackett
+ Jon Wilson - emeritus
+ 
+ kadedevice@gmail.com
 
  Our aim is to make it easy for arcade enthusiasts, stick builders and retro 
  gamers to interact with their computers, consoles and DIY arcade projects.  
@@ -35,8 +37,4 @@
  Derived products (software and hardware) must adhere to the same licenses 
  and KADE should be appropriately attributed.  
 
- Please take a moment and register for our community and support forums 
- at: http://kadevice.com/forum
-
- Visit the Open Source Software / Open Hardware pages on our forum at 
- http://kadevice.com/forum/viewforum.php?f=20
+https://northamerica.emukade.com/ - updated soon
